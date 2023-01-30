@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/vishruthsk/portal-db/types"
+	"github.com/vishruthsk/portal-db-main/types"
 )
 
 func (ts *PGDriverTestSuite) Test_ReadLoadBalancers() {

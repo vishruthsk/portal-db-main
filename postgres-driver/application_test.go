@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"time"
 
-	"github.com/vishruthsk/portal-db/types"
+	"github.com/vishruthsk/portal-db-main/types"
 )
 
 func (ts *PGDriverTestSuite) Test_ReadApplications() {

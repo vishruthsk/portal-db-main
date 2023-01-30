@@ -9,7 +9,7 @@ import (
 	"database/sql/driver"
 	"fmt"
 
-	"github.com/vishruthsk/portal-db/types"
+	"github.com/vishruthsk/portal-db-main/types"
 )
 
 type PermissionsEnum string

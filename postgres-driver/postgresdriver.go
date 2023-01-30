@@ -9,7 +9,7 @@ import (
 
 	// PQ import is required
 	_ "github.com/lib/pq"
-	"github.com/vishruthsk/portal-db/types"
+	"github.com/vishruthsk/portal-db-main/types"
 )
 
 const (

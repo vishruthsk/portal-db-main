@@ -1,4 +1,4 @@
-module github.com/vishruthsk/portal-db
+module github.com/vishruthsk/portal-db-main
 
 go 1.18
 

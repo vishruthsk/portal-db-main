@@ -5,7 +5,7 @@ package driver
 import (
 	context "context"
 
-	types "github.com/vishruthsk/portal-db/types"
+	types "github.com/vishruthsk/portal-db-main/types"
 	mock "github.com/stretchr/testify/mock"
 )
 

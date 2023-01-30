@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/vishruthsk/portal-db/types"
+	"github.com/vishruthsk/portal-db-main/types"
 )
 
 var (

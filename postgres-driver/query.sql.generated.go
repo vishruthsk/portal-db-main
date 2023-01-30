@@ -11,7 +11,7 @@ import (
 	"encoding/json"
 
 	"github.com/lib/pq"
-	"github.com/vishruthsk/portal-db/types"
+	"github.com/vishruthsk/portal-db-main/types"
 )
 
 const activateBlockchain = `-- name: ActivateBlockchain :exec

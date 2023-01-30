@@ -3,7 +3,7 @@ package driver
 import (
 	"context"
 
-	"github.com/vishruthsk/portal-db/types"
+	"github.com/vishruthsk/portal-db-main/types"
 )
 
 type (
